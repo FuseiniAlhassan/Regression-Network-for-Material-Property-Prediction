@@ -46,10 +46,10 @@ pip install numpy matplotlib tensorflow
 Run the script: Regression Network for Material Property Prediction.py
 
 ## Output Examples
-- **`sample_band_structures.png`** — Example synthetic band structures with band gaps
-- **`regression_model.png`** — Model architecture diagram
-- **`training_loss.png`** — Training and validation loss curves
-- **`predictions_vs_true.png`** — Scatter plot of predicted vs. true band gaps
+- **`sample_band_structures.png`** Example synthetic band structures with band gaps
+- **`regression_model.png`** Model architecture diagram
+- **`training_loss.png`** Training and validation loss curves
+- **`predictions_vs_true.png`** Scatter plot of predicted vs. true band gaps
 ![](regression_materials/outputs/plots/predictions_vs_true.png)
 ## Customization
 - `num_samples` — Number of training samples
