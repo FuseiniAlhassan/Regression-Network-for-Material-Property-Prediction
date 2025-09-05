@@ -52,9 +52,9 @@ Run the script: Regression Network for Material Property Prediction.py
 - **`predictions_vs_true.png`** Scatter plot of predicted vs. true band gaps
 ![](regression_materials/outputs/plots/predictions_vs_true.png)
 ## Customization
-- `num_samples` — Number of training samples
-- `num_kpoints` — Number of k‑points per band structure
-- `epochs`, `batch_size` — Training parameters
+- `num_samples` Number of training samples
+- `num_kpoints` Number of k‑points per band structure
+- `epochs`, `batch_size` Training parameters
 - Network layer sizes and activations can be modified in the architecture section
 
 
